@@ -1,8 +1,4 @@
-// ========== SIDEBAR TOGGLE ==========
 
-/**
- * Toggle sidebar on mobile devices
- */
 function toggleSidebar() {
     const sidebar = document.querySelector('.sidebar');
     const overlay = document.querySelector('.sidebar-overlay');
