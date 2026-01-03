@@ -134,7 +134,7 @@ gaptogrowth_demo1/
 
 ---
 
-## 🔐 Default Login Credentials
+##  Default Login Credentials
 
 ### Admin Account
 - **Email:** admin@gmail.com
@@ -147,7 +147,7 @@ Create accounts using the login page with:
 
 ---
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -166,7 +166,7 @@ Create accounts using the login page with:
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Health Check
 - `GET /api/health` - Check system status
@@ -188,7 +188,7 @@ Create accounts using the login page with:
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production with Gunicorn
 ```bash
@@ -203,7 +203,7 @@ gunicorn -w 4 -b 0.0.0.0:8000 wsgi:app
 
 ---
 
-## 📊 Database Schema (Supabase)
+##  Database Schema (Supabase)
 
 The system uses the following tables:
 - `users` - User accounts with roles (admin/teacher/student)
@@ -214,22 +214,13 @@ The system uses the following tables:
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-## 📝 License
+##  License
 
 This project is developed for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Flask** - Web framework
 - **Supabase** - Database and backend services  
@@ -239,4 +230,3 @@ This project is developed for educational purposes.
 
 ---
 
-**Built with ❤️ for students everywhere**
