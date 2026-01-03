@@ -1,0 +1,25 @@
+# Create the file (overwrites if it already exists)
+@"
+# Python / Flask
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.sqlite3
+instance/
+.env
+*.log
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS artefacts
+Thumbs.db
+.DS_Store
+
+# Node / npm (not used here but safe to ignore)
+node_modules/
+"@ > .gitignore
