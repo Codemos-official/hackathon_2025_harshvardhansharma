@@ -128,7 +128,6 @@ gaptogrowth_demo1/
 │   └── static/           # CSS and JavaScript assets
 ├── app.py               # Application entry point
 ├── config.py            # Configuration classes
-├── wsgi.py              # Production WSGI entry
 ├── requirements.txt     # Python dependencies
 └── .env                 # Environment variables
 ```
