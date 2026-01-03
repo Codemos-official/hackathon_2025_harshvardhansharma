@@ -1,24 +1,4 @@
-"""
-============================================
-Gap2Growth - Main Application Entry Point
-============================================
-This is the main file that initializes and runs
-the Flask application.
 
-What this file does:
-1. Creates the Flask application instance
-2. Loads configuration from config.py
-3. Registers all blueprints (route groups)
-4. Sets up the template and static folders
-5. Runs the development server
-
-To run the application:
-    python app.py
-
-Or using Flask CLI:
-    flask run
-============================================
-"""
 
 # Import required modules
 from flask import Flask
