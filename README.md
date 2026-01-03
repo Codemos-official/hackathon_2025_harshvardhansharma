@@ -9,20 +9,18 @@
 ### For Students
 - 📅 **Automatic Free Time Detection** - Real-time identification of schedule gaps and cancelled classes
 - 💡 **Smart Recommendations** - Personalized activity suggestions based on available time and learning history
-- 📊 **Progress Tracking** - Monitor completed activities, productive hours, and daily streaks
 - 🔔 **Instant Notifications** - Get alerted about free time opportunities via in-app and email notifications
 - 📈 **Weekly Reports** - Receive engagement summaries and productivity insights
 
 ### For Teachers
 - 🗓️ **Timetable Management** - Create, edit, and cancel class schedules with visual weekly overview
-- 📚 **Activity Creation** - Design learning activities with categories, difficulty levels, and durations
-- 👥 **Student Monitoring** - View enrolled students and their engagement statistics
+- 📚 **Activity Creation** - Design learning activities with categories
+- 👥 **Student Monitoring** - View enrolled students
 - ⚡ **Instant Notifications** - Students automatically notified when classes are cancelled
 
 ### For Administrators
 - 👤 **User Management** - Create and manage student/teacher accounts
 - 📊 **System Analytics** - View platform-wide engagement statistics
-- 📄 **Report Generation** - Generate PDF engagement reports
 - 🔧 **System Monitoring** - Monitor database, scheduler, and email service status
 
 ---
